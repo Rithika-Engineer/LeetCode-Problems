@@ -123,4 +123,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
