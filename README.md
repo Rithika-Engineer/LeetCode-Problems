@@ -28,6 +28,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,9 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
