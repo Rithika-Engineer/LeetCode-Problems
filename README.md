@@ -67,6 +67,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2235-add-two-integers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
