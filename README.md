@@ -54,6 +54,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +147,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
