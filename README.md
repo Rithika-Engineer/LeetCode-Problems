@@ -16,6 +16,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
