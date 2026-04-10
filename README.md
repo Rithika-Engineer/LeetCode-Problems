@@ -47,6 +47,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +180,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
