@@ -20,6 +20,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +168,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
