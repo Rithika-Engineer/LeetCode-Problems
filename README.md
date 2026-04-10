@@ -25,4 +25,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
