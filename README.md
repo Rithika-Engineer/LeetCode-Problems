@@ -42,6 +42,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0048-rotate-image](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
