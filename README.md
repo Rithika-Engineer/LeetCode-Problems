@@ -10,11 +10,13 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0014-longest-common-prefix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +62,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
