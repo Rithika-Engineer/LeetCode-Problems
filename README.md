@@ -24,6 +24,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0006-zigzag-conversion](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,8 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
