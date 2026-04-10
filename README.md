@@ -18,12 +18,14 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
