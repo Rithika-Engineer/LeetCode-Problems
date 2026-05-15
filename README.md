@@ -19,6 +19,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
@@ -55,6 +57,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
