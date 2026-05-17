@@ -24,6 +24,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
