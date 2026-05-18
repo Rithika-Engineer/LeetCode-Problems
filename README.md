@@ -25,6 +25,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -197,5 +200,14 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
