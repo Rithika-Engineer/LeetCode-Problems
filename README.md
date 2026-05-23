@@ -18,6 +18,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0001-two-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -155,6 +158,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -199,6 +203,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Dynamic Programming
