@@ -78,6 +78,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2235-add-two-integers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0021-merge-two-sorted-lists](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
