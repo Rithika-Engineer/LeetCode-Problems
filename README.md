@@ -73,6 +73,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
