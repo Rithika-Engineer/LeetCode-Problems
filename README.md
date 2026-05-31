@@ -51,6 +51,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0014-longest-common-prefix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
@@ -222,6 +223,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -245,4 +247,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
