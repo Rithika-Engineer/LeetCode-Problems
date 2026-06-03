@@ -13,6 +13,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0027-remove-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
