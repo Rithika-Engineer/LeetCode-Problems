@@ -100,6 +100,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0024-swap-nodes-in-pairs](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0024-swap-nodes-in-pairs](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -253,4 +256,5 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
