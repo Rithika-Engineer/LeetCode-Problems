@@ -39,6 +39,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
