@@ -14,6 +14,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0035-search-insert-position](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
