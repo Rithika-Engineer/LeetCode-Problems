@@ -197,6 +197,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0112-path-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0112-path-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,10 +261,12 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
