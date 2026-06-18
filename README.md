@@ -20,6 +20,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0066-plus-one](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0037-sudoku-solver](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
