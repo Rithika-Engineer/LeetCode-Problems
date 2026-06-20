@@ -175,6 +175,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 ## Sorting
@@ -197,6 +198,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
