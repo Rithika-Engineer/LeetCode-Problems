@@ -61,6 +61,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0032-longest-valid-parentheses](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
