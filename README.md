@@ -37,6 +37,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0643-maximum-average-subarray-i](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0242-valid-anagram](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0190-reverse-bits](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +263,7 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | [0169-majority-element](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rithika-Engineer/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
